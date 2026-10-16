@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registros>
+    <registro>
+        <peso>65.5</peso>
+        <altura>170</altura>
+    </registro>
+    <registro>
+        <peso>70.2</peso>
+        <altura>175</altura>
+    </registro>
+    <registro>
+        <peso>80.0</peso>
+        <altura>182</altura>
+        <edad>veinte</edad>
+    </registro>
+</registros>
